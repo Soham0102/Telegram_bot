@@ -7,7 +7,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import datetime
 from telegram.error import TimedOut
 
-BOT_TOKEN = "Your_Bot_Token"
+BOT_TOKEN = "7901050539:AAF_tvFG_I-jS80TqHt3iEMkh66LQu9_0nA"
 
 
 scheduler = AsyncIOScheduler()
